@@ -5,7 +5,7 @@ This Github organisation represents the entirety of code that is running in prod
 ## Housekeeping
 
 * Keep your repos clean, avoid long lived branches, prefer [branch by abstraction](https://www.martinfowler.com/bliki/BranchByAbstraction.html).
-* You MUST have a high quality README in your repo that follows [these documentation standards](https://www.notion.so/seatfrog/Technology-539ad17684404123884dde0781a74101).
+* You MUST have a high quality README in your repo that follows [these documentation standards](https://www.notion.so/seatfrog/Docs-README-Standards-dd38965a882a458e90ce326e9ede689c).
 * The full handbook for standards at Seatfrog can be found in the [Technology section in Notion](https://www.notion.so/seatfrog/Technology-539ad17684404123884dde0781a74101).
 
 GLHF!
