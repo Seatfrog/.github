@@ -1,6 +1,6 @@
 # Welcome!
 
-This Github organisation represents the entirity of code that is running in production, if you have old code that isn't in use, or code that may be used in the future but is not in active development it should be moved to the [seatfrog-archive](https://github.com/seatfrog-archive) organisation.
+This Github organisation represents the ntirety of code that is running in production, if you have old code that isn't in use, or code that may be used in the future but is not in active development it should be moved to the [seatfrog-archive](https://github.com/seatfrog-archive) organisation.
 
 ## Housekeeping
 
