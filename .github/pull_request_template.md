@@ -1,6 +1,6 @@
 ## Links 
 
-__e.g. Pivotal tickets, other relevant PRs etc__
+__e.g. Linear tickets, other relevant PRs etc__
 
 ## Summary 
 
