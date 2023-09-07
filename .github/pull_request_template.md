@@ -1,15 +1,35 @@
 ## Links 
 
-__e.g. Linear tickets, other relevant PRs etc__
+[Linear](https://linear.app/seatfrog/issue/XXX-XXX)
 
 ## Summary 
 
-__See https://www.notion.so/seatfrog/Pull-Request-Template-2f9123e754904748aa1612f59f44c639 for details__
+*What does your PR change?*
 
 ## Testing 
 
-__Notes on how to test + demo of your own testing__
+### How to test
+
+*How can a reviewer or tester check your changes work as expected? Make sure testers have access to these steps!*
+
+1. 
+
+### Screenshots / videos
+
+| Before | After |
+| --- | --- |
+| *image* | *image* |
+
+### Automated tests
+
+*Have appropriate automated tests been written? If none, why not?*
 
 ## Notes
 
-__Any futher information__
+*Any further information / caveats?*
+
+
+
+
+
+<!--- More info on this template: https://www.notion.so/seatfrog/WIP-Pull-Request-Template-2f9123e754904748aa1612f59f44c639 -->
