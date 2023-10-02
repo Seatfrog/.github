@@ -4,7 +4,11 @@
 
 ## Summary 
 
-*What does your PR change?*
+*What does your PR do?*
+
+## Notes
+
+*Any further information / caveats?*
 
 ## Testing 
 
@@ -12,21 +16,9 @@
 
 *How can a reviewer or tester check your changes work as expected? Make sure testers have access to these steps!*
 
-1. 
-
-### Screenshots / videos
-
-| Before | After |
-| --- | --- |
-| *image* | *image* |
-
 ### Automated tests
 
 *Have appropriate automated tests been written? If none, why not?*
-
-## Notes
-
-*Any further information / caveats?*
 
 
 
